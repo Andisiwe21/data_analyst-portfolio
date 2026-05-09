@@ -1,0 +1,85 @@
+# Netflix Data Analysis Project
+
+## Project Overview
+
+This project analyzes the Netflix Movies and TV Shows dataset using Excel and Power BI to uncover insights about content distribution, release trends, genres, and ratings.
+
+---
+
+## Tools Used
+
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Pivot Tables
+- Dashboard Design
+- Data Visualization
+
+---
+
+## Dataset Description
+
+The dataset contains information about Netflix titles including:
+
+- Title
+- Type (Movie/TV Show)
+- Director
+- Cast
+- Country
+- Release Year
+- Rating
+- Duration
+- Genre
+
+---
+
+## Key Questions Answered
+
+- What type of content dominates Netflix?
+- Which countries produce the most Netflix content?
+- What are the most common genres?
+- How has Netflix content changed over time?
+- Which ratings are most common?
+
+---
+
+## Key Insights
+
+### 1. Content Type Distribution
+Movies dominate the Netflix catalog compared to TV Shows.
+
+### 2. Release Year Trends
+Netflix content increased significantly after 2015.
+
+### 3. Country Analysis
+The United States contributes the highest number of titles.
+
+### 4. Genre Analysis
+Drama and International Movies are among the most common genres.
+
+### 5. Rating Distribution
+TV-MA is the most frequently assigned rating.
+
+---
+
+## Files Included
+
+- netflix_titles.csv
+- Netflix_Analysis.xlsx
+- Netflix_Dashboard.pbix
+
+---
+
+## Dashboard Preview
+
+()
+
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Dashboard Building
+- Business Insight Generation
